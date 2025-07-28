@@ -90,7 +90,7 @@ def delete_note(note_id):
         st.error(f"Error deleting note: {e}")
 
 def main():
-    st.title("📝 Firebase-Backed Notes App")
+    st.title("📝 Tobi Notes")
     
     # Initialize notes
     if 'notes' not in st.session_state:
