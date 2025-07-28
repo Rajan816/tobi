@@ -1,4 +1,5 @@
 streamlit
-datetime
 firebase-admin
-pathlib
+pyrebase4
+python-dotenv
+uuid
